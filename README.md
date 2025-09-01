@@ -5,11 +5,11 @@ This project involves building a front-end interface where client-side JavaScrip
 <br>
 <h3>Key features included are following:</h3>
 <br>
-<ul>
+<ol>
 <li>API Consumption – Connecting to external REST APIs and retrieving structured data (JSON/XML).</li>
 <li>Data Handling – Parsing and transforming API responses for display.</li>
 <li>Dynamic UI Updates – Rendering API results on the web page using DOM manipulation.</li>
 <li>Error Handling – Managing API failures, network errors, and invalid responses gracefully.</li>
 <li>Custom API Endpoints – Optionally, implementing a simple Node.js/Express backend to provide custom APIs consumed by the JavaScript frontend.</li>
 <li>Scalability & Extensibility – Designed so additional APIs can be integrated with minimal changes.</li>
-</ul>
+</ol>
